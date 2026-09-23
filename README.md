@@ -9,12 +9,7 @@
 - 📚 Always learning and improving my programming skills
 
 ## Skills
-- JavaScript
-- Node.js
-- Express.js
-- HTML
-- CSS
-- SQLite
+
 - Git & GitHub
 
 ## Projects
@@ -24,7 +19,7 @@
 - Query and Filtering API
 
 ## Connect With Me
-- GitHub: @garikapatiramyasri555-arch
+- GitHub: garikapatiramyasri555-arch
 
 ---
 
