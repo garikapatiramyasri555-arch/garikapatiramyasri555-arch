@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Garikapati Ramya Sri 👋
 
-<!--
-**garikapatiramyasri555-arch/garikapatiramyasri555-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning Web Development and Software Development
+- 💻 Interested in JavaScript, Node.js, Express.js and Databases
+- 🚀 Building and deploying projects using GitHub and Render
+- 📚 Always learning and improving my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- Node.js
+- Express.js
+- HTML
+- CSS
+- SQLite
+- Git & GitHub
+
+## Projects
+- Online Ticket Booking System
+- REST API Projects
+- SQLite Database Projects
+- Query and Filtering API
+
+## Connect With Me
+- GitHub: @garikapatiramyasri555-arch
+
+---
+
+⭐ Thanks for visiting my profile!
